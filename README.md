@@ -1,2 +1,1 @@
-# devsecops-labs
-Mina labbar för DevSecOps-kursen
+# Hello-world Again
